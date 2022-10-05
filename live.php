@@ -29,6 +29,7 @@
 
   <!--Minify Styles-->
   <!-- <link rel="stylesheet" href="../../dist/css/bundle.min.css"> -->
+   <link rel="stylesheet" href="index.css"/> 
 </head>
 
 <body class="bg-repeat font-family">
@@ -50,23 +51,59 @@
 
 
     <!--Content start-->
-    <main id="content">
+    <main id="content" class="">
       <div class="container">
 
-        <div class="container mt-5">
-          <div class="row">
-            <div class="col-sm-3">
-              <h3>Ukraine war live</h3>
-              <p>Ukraine</p>
+        <div class="container main_content">
+            <ul role="list" class="dcr-1wmzv2f">
+              <li class="dcr-1spbnl8"><a data-src-focus-disabled="true" href="/world" class="dcr-r260na">World</a></li>
+              <li><a data-src-focus-disabled="true" href="/world/europe-news" data-link-name="nav2 : subnav : world/europe-news" class="dcr-r260na"><span class="dcr-1j389vi">Europe</span></a></li>
+              <li><a data-src-focus-disabled="true" href="/us-news" data-link-name="nav2 : subnav : us-news" class="dcr-r260na">US</a></li>
+              <li><a data-src-focus-disabled="true" href="/world/americas" data-link-name="nav2 : subnav : world/americas" class="dcr-r260na">Americas</a></li>
+              <li><a data-src-focus-disabled="true" href="/world/asia" data-link-name="nav2 : subnav : world/asia" class="dcr-r260na">Asia</a></li>
+              <li><a data-src-focus-disabled="true" href="/australia-news" data-link-name="nav2 : subnav : australia-news" class="dcr-r260na">Australia</a></li>
+              <li><a data-src-focus-disabled="true" href="/world/middleeast" data-link-name="nav2 : subnav : world/middleeast" class="dcr-r260na">Middle East</a></li>
+              <li><a data-src-focus-disabled="true" href="/world/africa" data-link-name="nav2 : subnav : world/africa" class="dcr-r260na">Africa</a></li>
+              <li><a data-src-focus-disabled="true" href="/inequality" data-link-name="nav2 : subnav : inequality" class="dcr-r260na">Inequality</a></li>
+              <li><a data-src-focus-disabled="true" href="/global-development" data-link-name="nav2 : subnav : global-development" class="dcr-r260na">Global development</a></li>
+            </ul>  
 
+            <section class="dcr-1mh3fxb">
+              <div class="dcr-7rip7y">
+                <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="13" viewBox="0 0 1300 13" preserveAspectRatio="none" stroke="#DCDCDC" stroke-width="1" aria-hidden="true" focusable="false" class="dcr-4zleql">
+                  <line x1="0" x2="1300" y1="0.5" y2="0.5"></line>
+                  <line x1="0" x2="1300" y1="4.5" y2="4.5"></line>
+                  <line x1="0" x2="1300" y1="8.5" y2="8.5"></line>
+                  <line x1="0" x2="1300" y1="12.5" y2="12.5"></line>
+                </svg>
+              </div>
+            </section>
+        
+            <div class="row">
+              <div class="col-sm-3">
+                <span>Ukraine war live</span>
+                <p class="main_content_location">Ukraine</p>
+              </div>
+              <div class="col-sm-9 main_content_heading ">
+                <p> <b> UN chief warns Putin that annexing Ukraine territory is a ‘dangerous escalation’ with ‘no legal value’ – as it happened.UN chief warns Putin that annexing Ukraine territory is a ‘dangerous escalation’ with ‘no legal value’ – as it happened.</b></p>
+              </div>
             </div>
-            <div class="col-sm-9">
-              <h3>Russia-Ukraine war: Ukrainian forces close in on Lyman; head of nuclear plant reported abducted – live</h3>
-            </div>
+
+            <div class="row sub_content">
+
+              <div class="col-sm-3">
+                <span> Updated 6d ago</span>
+              </div>
+
+              <div class="col-sm-9 main_content_heading ">
+                <p> <b> António Guterres warns Putin against annexation of Donetsk, Luhansk, Kherson and Zaporizhzhia before expected announcement.</b></p>
+                <p> <b>What we know on day 218 of the invasion.</b></p>
+
+              </div>
+
           </div>
 
-
-        </div>
+      </div>
     </main>
     <!--End Content-->
 
