@@ -1,0 +1,25 @@
+.main_content{
+    border-left:1px solid black;
+    border-right:1px solid black;
+    color: rgb(227, 16, 16);
+    font-size: 23px;
+}
+
+.main_content_location{
+    color:rgb(227, 16, 16);
+    font-size: 18px;
+ }
+
+ .main_content_heading p {
+    font-size:25px ;
+
+ }
+
+ .dcr-1wmzv2f li{
+    display:inline;
+    padding-right:10px;
+ }
+
+ .sub_content{
+    background-color:#EDEDED ;
+ }
