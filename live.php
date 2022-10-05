@@ -52,9 +52,21 @@
     <!--Content start-->
     <main id="content">
       <div class="container">
-        
-		  live here
-		</div>
+
+        <div class="container mt-5">
+          <div class="row">
+            <div class="col-sm-3">
+              <h3>Ukraine war live</h3>
+              <p>Ukraine</p>
+
+            </div>
+            <div class="col-sm-9">
+              <h3>Russia-Ukraine war: Ukrainian forces close in on Lyman; head of nuclear plant reported abducted – live</h3>
+            </div>
+          </div>
+
+
+        </div>
     </main>
     <!--End Content-->
 
@@ -95,7 +107,7 @@
   <!-- <script src="../../dist/js/bundle.min.js"></script> -->
 
   <script>
-    $(document).ready(function(){
+    $(document).ready(function() {
       $('#f1').flexslider({
         animation: "slide",
         rtl: true,
@@ -113,10 +125,7 @@
         rtl: true,
         asNavFor: '.flexslider'
       });
-});
-
-
-    
+    });
   </script>
 
 
