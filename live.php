@@ -55,24 +55,21 @@
       <div class="container">
 
         <div class="container container main_content">
-           <div class="dcr-16dmo4o">
+         
             
-          <ul role="list" class="dcr-1wmzv2f">
-            <li class="dcr-1spbnl8"><a data-src-focus-disabled="true" href="/world" class="dcr-r260na">World</a></li>
-            <li><a data-src-focus-disabled="true" href="/world/europe-news" data-link-name="nav2 : subnav : world/europe-news" class="dcr-r260na"><span class="dcr-1j389vi">Europe</span></a></li>
-            <li><a data-src-focus-disabled="true" href="/us-news" data-link-name="nav2 : subnav : us-news" class="dcr-r260na">US</a></li>
+          <ul role="list" class="sub-menu">
+            <li class="world"><a data-src-focus-disabled="true" href="/world" class="countries">World</a></li>
+            <li><a data-src-focus-disabled="true" href="/world/europe-news" data-link-name="nav2 : subnav : world/europe-news" class="countries"><span class="active">Europe</span></a></li>
+            <li><a data-src-focus-disabled="true" href="/us-news" data-link-name="nav2 : subnav : us-news" class="countries">US</a></li>
            
-           <li><a data-src-focus-disabled="true" href="/world/americas" data-link-name="nav2 : subnav : world/americas" class="dcr-r260na">Americas</a></li>
-           <li><a data-src-focus-disabled="true" href="/world/asia" data-link-name="nav2 : subnav : world/asia" class="dcr-r260na">Asia</a></li>
-           <li><a data-src-focus-disabled="true" href="/australia-news" data-link-name="nav2 : subnav : australia-news" class="dcr-r260na">Australia</a></li>
-           <li><a data-src-focus-disabled="true" href="/world/middleeast" data-link-name="nav2 : subnav : world/middleeast" class="dcr-r260na">Middle East</a></li>
-           <li><a data-src-focus-disabled="true" href="/world/africa" data-link-name="nav2 : subnav : world/africa" class="dcr-r260na">Africa</a></li>
-           <li><a data-src-focus-disabled="true" href="/inequality" data-link-name="nav2 : subnav : inequality" class="dcr-r260na">Inequality</a></li>
-           <li><a data-src-focus-disabled="true" href="/global-development" data-link-name="nav2 : subnav : global-development" class="dcr-r260na">Global development</a></li>
+            <li><a data-src-focus-disabled="true" href="/world/americas" data-link-name="nav2 : subnav : world/americas" class="countries">Americas</a></li>
+            <li><a data-src-focus-disabled="true" href="/world/asia" data-link-name="nav2 : subnav : world/asia" class="countries">Asia</a></li>
+            <li><a data-src-focus-disabled="true" href="/australia-news" data-link-name="nav2 : subnav : australia-news" class="countries">Australia</a></li>
+            <li><a data-src-focus-disabled="true" href="/world/middleeast" data-link-name="nav2 : subnav : world/middleeast" class="countries">Middle East</a></li>
+            <li><a data-src-focus-disabled="true" href="/world/africa" data-link-name="nav2 : subnav : world/africa" class="countries">Africa</a></li>
+            <li><a data-src-focus-disabled="true" href="/inequality" data-link-name="nav2 : subnav : inequality" class="countries">Inequality</a></li>
+            <li><a data-src-focus-disabled="true" href="/global-development" data-link-name="nav2 : subnav : global-development" class="countries">Global development</a></li>
           </ul>
-
-        </div>
-          
         
       
             <section class="dcr-1mh3fxb">
@@ -85,24 +82,39 @@
                 </svg>
               </div>
             </section>
-        
-            <div class="row">
-              <div class="col-sm-3">
-                <span>Ukraine war live</span>
-                <p class="main_content_location">Ukraine</p>
+            
+            <div class="news-1">
+              <div class="row">
+                <div class="col-sm-3">
+                    <div data-gu-name="title" class="dcr-hfp9tp">
+                      <div class="dcr-10jdkim"><div class="dcr-1u8qly9">
+                        <div class="dcr-51j6hl">
+                          <span class="dcr-1blnjq7"></span>
+                          <a href="https://www.theguardian.com/world/series/ukraine-live" data-component="series" data-link-name="article series" class="dcr-p2g6s3"><span>Ukraine war live</span></a>
+                          <span class="dcr-l6t30p"><a href="https://www.theguardian.com/world/ukraine" data-component="section" data-link-name="article section" class="dcr-1l72qgw"><span>Ukraine</span></a></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-6 ">
+                <div data-gu-name="headline" class="dcr-1nupfq9"><div class="dcr-faqtw4"><div class="dcr-0"><h1 class="dcr-1tl7v16">UN chief warns Putin that annexing Ukraine territory is a ‘dangerous escalation’ with ‘no legal value’ –&nbsp;as it happened</h1></div></div></div>
+                </div>
               </div>
-              <div class="col-sm-9 main_content_heading ">
-                <p> <b> UN chief warns Putin that annexing Ukraine territory is a ‘dangerous escalation’ with ‘no legal value’ – as it happened.UN chief warns Putin that annexing Ukraine territory is a ‘dangerous escalation’ with ‘no legal value’ – as it happened.</b></p>
-              </div>
-            </div>
-            <div class="sub_content">
+</div>
+
+
+            <div class="news2-slider sub_content">
                 <div class="row">
                     <div class="col-sm-3">
-                      <span> Updated 6d ago</span>
+                    <div data-gu-name="lastupdated" class="dcr-2ig1ve"><span class="dcr-1wok5v"><div class="dcr-181pfcg">&nbsp;Updated&nbsp;<time datetime="Thu Sep 29 2022 18:38:13 GMT+0000 (Coordinated Universal Time)" data-relativeformat="med" data-gu-marker="liveblog-last-updated">30 Sep 2022</time></div></span></div>
                     </div>
-                    <div class="col-sm-9 main_content_heading ">
-                      <p> <b> António Guterres warns Putin against annexation of Donetsk, Luhansk, Kherson and Zaporizhzhia before expected announcement.</b></p>
-                      <p> <b>What we know on day 218 of the invasion.</b></p>
+                    <div class="col-sm-6 ">
+                    <div data-gu-name="standfirst" class="dcr-zjgnrw"><div class=" dcr-1aq984t"><p>António Guterres warns Putin against annexation of Donetsk, Luhansk, Kherson and Zaporizhzhia before expected announcement. </p>
+<p>This live blog is now closed</p>
+<ul>
+ <li><a href="https://www.theguardian.com/world/2022/sep/29/russia-ukraine-war-latest-what-we-know-on-day-218-of-the-invasion" data-link-name="in standfirst link">What we know on day 218 of the invasion</a></li>
+</ul></div></div>
                     </div>
                 </div>
             </div>

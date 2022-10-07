@@ -1,16 +1,15 @@
-.dcr-r260na:hover {
-   color: #C70000;
-}
-.dcr-1wmzv2f li {
+
+.sub-menu li {
    float: left;
    display: block;
 }
 
-.dcr-1wmzv2f {
+.sub-menu {
    padding: 0 15px;
    margin-top: -16px;
 }
-.dcr-1spbnl8:after {
+
+.sub-menu .world:after {
    content: '';
    display: inline-block;
    width: 0;
@@ -21,24 +20,16 @@
    margin-left: 2px;
    border-left-color: #C70000;
 }
-.dcr-r260na {
+.sub-menu .countries {
    font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
    font-size: 1.0625rem;
    line-height: 1.5;
    font-weight: 400;
    font-size: 16px;
 }
-.dcr-1j389vi {
-   font-weight: 700;
-}
-.dcr-r260na {
-   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
-   font-size: 1.0625rem;
-   line-height: 1.5;
-   font-weight: 400;
-   font-size: 16px;
-}
-.dcr-r260na {
+
+
+.sub-menu .countries {
    font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
    font-size: 0.9375rem;
    line-height: 1.5;
@@ -52,6 +43,142 @@
    float: left;
    -webkit-text-decoration: none;
    text-decoration: none;
+}
+
+.countries:hover {
+   color: #C70000;
+}
+
+.sub-menu li{
+   display:inline;
+   padding-right:10px;
+}
+
+.sub-menu .active {
+   font-weight: 700;
+}
+
+
+.dcr-hfp9tp {
+   grid-area: title;
+}
+.dcr-10jdkim {
+   padding-top: 8px;
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-flex-direction: row;
+   -ms-flex-direction: row;
+   flex-direction: row;
+}
+.dcr-p2g6s3 {
+   -webkit-text-decoration: none;
+   text-decoration: none;
+   color: #C70000;
+   background-color: transparent;
+   font-family: GH Guardian Headline,Guardian Egyptian Web,Georgia,serif;
+   font-size: 1.0625rem;
+   line-height: 1.15;
+   font-weight: 700;
+   word-break: break-word;
+   box-shadow: -6px 0 0 0 transparent,6px 0 0 0 transparent;
+}
+.dcr-p2g6s3 span:hover , .dcr-1l72qgw span:hover{
+   -webkit-text-decoration: underline;
+   text-decoration: underline;
+   color: #C70000;
+}
+.dcr-p2g6s3 {
+   font-family: GH Guardian Headline,Guardian Egyptian Web,Georgia,serif;
+   font-size: 1.25rem;
+   line-height: 1.15;
+   font-weight: 700;
+}
+.dcr-1l72qgw {
+   -webkit-text-decoration: none;
+   text-decoration: none;
+   font-family: GH Guardian Headline,Guardian Egyptian Web,Georgia,serif;
+   font-size: 1.0625rem;
+   line-height: 1.15;
+   line-height: 20px;
+   display: block;
+   word-break: break-word;
+   color: #C70000;
+   background-color: transparent;
+}
+.news-1{
+   padding-left: 20px;
+   padding-right: 10px;
+}
+
+.news2-slider{
+   padding-left: 20px;
+   padding-right: 10px;
+}
+.dcr-1tl7v16 {
+   font-family: GH Guardian Headline,Guardian Egyptian Web,Georgia,serif;
+   font-size: 2.125rem;
+   line-height: 1.15;
+   font-weight: 500;
+   color: #121212;
+   padding-bottom: 36px;
+}
+.dcr-181pfcg {
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 0.9375rem;
+   line-height: 1.5;
+   font-weight: 400;
+   padding-bottom: 0.125rem;
+   padding-top: 0.125rem;
+   color: #121212;
+}
+
+.dcr-1aq984t p {
+   margin-bottom: 8px;
+}
+.dcr-1aq984t a {
+   color: #C70000;
+   -webkit-text-decoration: none;
+   text-decoration: none;
+   border-bottom: 1px solid #DCDCDC;
+   -webkit-transition: border-color 0.15s ease-out;
+   transition: border-color 0.15s ease-out;
+}
+.dcr-1aq984t {
+   font-family: GH Guardian Headline,Guardian Egyptian Web,Georgia,serif;
+   font-size: 1.0625rem;
+   line-height: 1.15;
+   font-weight: 700;
+   line-height: 20px;
+   margin-top: 4px;
+   margin-bottom: 12px;
+   max-width: 540px;
+   color: #121212;
+}
+
+.dcr-1aq984t li {
+   margin-bottom: 6px;
+   padding-left: 19px;
+}
+.dcr-1aq984t li:before {
+   display: inline-block;
+   content: '';
+   border-radius: 50%;
+   height: 0.7em;
+   width: 0.7em;
+   margin-right: 7px;
+   background-color: #999999;
+   margin-left: -19px;
+}
+
+.news2-slider ul {
+   list-style: none;
+   margin-left: -30px;
+
+}
+.main_content_heading p {
+   font-size:25px ;
 }
 
 .main_content{
@@ -68,15 +195,8 @@
     font-size: 18px;
  }
 
- .main_content_heading p {
-    font-size:25px ;
 
- }
 
- .dcr-1wmzv2f li{
-    display:inline;
-    padding-right:10px;
- }
 
  .sub_content{
     background-color:#EDEDED ;
