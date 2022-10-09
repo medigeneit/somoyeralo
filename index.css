@@ -206,7 +206,6 @@
  }
 
  .detail-section-left{
-   padding-left: 20px;
    padding-right: 2opx;
  }
  .old-segments{
@@ -483,4 +482,182 @@ iframe{
    padding: 8px;
    z-index: 1;
    opacity: 0;
+}
+
+.dcr-1puyhqs[aria-checked='true'] {
+   background: #58D08B;
+}
+
+.dcr-v3ykjh {
+   margin-bottom: 36px;
+}
+.dcr-v3ykjh {
+   border: 3px solid #AB0613;
+   padding-bottom: 4px;
+   position: relative;
+   background: #FFFFFF;
+}
+.dcr-18vmyeh {
+   visibility: hidden;
+   position: absolute;
+   opacity: 0;
+   height: 0;
+   width: 0;
+   top: 0;
+   left: 0;
+}
+.dcr-1vauadg {
+   background: #AB0613;
+   height: 32px;
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-align-items: center;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+}
+.dcr-1vauadg svg {
+   fill: #FFFFFF;
+   height: 32px;
+   margin-bottom: 4px;
+}
+.dcr-15swv3 {
+   margin-left: 28px;
+}
+.dcr-15swv3 {
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 0.9375rem;
+   line-height: 1.5;
+   font-weight: 700;
+   color: #FFFFFF;
+   margin-bottom: 4px;
+}
+.dcr-2p575r {
+   max-height: 40vh;
+   overflow: hidden;
+}
+.dcr-u0mpu3 {
+   background-image: linear-gradient(
+     0deg,
+     #FFFFFF,
+     #FFFFFF 40%,
+     rgba(255, 255, 255, 0)
+  );
+   height: 80px;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   display: block;
+}
+.dcr-i0eqsm {
+   margin-left: 60px;
+}
+.dcr-i0eqsm {
+   margin-left: 60px;
+}
+.dcr-i0eqsm {
+   margin-left: 60px;
+}
+.dcr-i0eqsm {
+   display: -webkit-inline-box;
+   display: -webkit-inline-flex;
+   display: -ms-inline-flexbox;
+   display: inline-flex;
+   -webkit-box-pack: justify;
+   -webkit-justify-content: space-between;
+   justify-content: space-between;
+   -webkit-align-items: center;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   box-sizing: border-box;
+   border: none;
+   cursor: pointer;
+   -webkit-transition: .3s ease-in-out;
+   transition: .3s ease-in-out;
+   -webkit-text-decoration: none;
+   text-decoration: none;
+   white-space: nowrap;
+   background: #AB0613;
+   margin-left: 10px;
+   position: absolute;
+   bottom: -24px;
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 1.0625rem;
+   line-height: 1.5;
+   font-weight: 700;
+   height: 44px;
+   min-height: 44px;
+   padding: 0 20px;
+   border-radius: 44px;
+   padding-bottom: 2px;
+   color: white;
+}
+.dcr-v3ykjh #pinned-post-checkbox:checked~#pinned-post-overlay, .dcr-v3ykjh #pinned-post-checkbox~label #svgminus, .dcr-v3ykjh #pinned-post-checkbox:checked~label #svgplus {
+   display: none;
+}
+.dcr-v3ykjh #pinned-post-checkbox~label #svgplus, .dcr-v3ykjh #pinned-post-checkbox:checked~label #svgminus {
+   display: block;
+}
+.dcr-1hg7fse svg {
+   -webkit-flex: 0 0 auto;
+   -ms-flex: 0 0 auto;
+   flex: 0 0 auto;
+   display: block;
+   fill: white;
+   position: relative;
+   width: 24px;
+   height: auto;
+   margin-left: -4px;
+   margin-right: 4px;
+}
+.dcr-v3ykjh #pinned-post-checkbox~label::after {
+   content: 'Show more';
+}
+.dcr-15uyahb {
+   padding: 8px 20px;
+   padding-left: 60px;
+}
+.dcr-hmma49 {
+   padding-right: 12px;
+   display: -webkit-box;
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-flex-direction: column;
+   -ms-flex-direction: column;
+   flex-direction: column;
+}
+.dcr-4ks458 {
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 0.75rem;
+   line-height: 1.5;
+   font-weight: 400;
+   color: #707070;
+}
+.dcr-u0mpu3 {
+   background-image: linear-gradient(
+     0deg,
+     #FFFFFF,
+     #FFFFFF 40%,
+     rgba(255, 255, 255, 0)
+  );
+   height: 80px;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   display: block;
+}
+.dcr-1vtk2mf {
+   margin-bottom: 1rem;
+   word-break: break-word;
+   font-family: GuardianTextEgyptian,Guardian Text Egyptian Web,Georgia,serif;
+   font-size: 1.0625rem;
+   line-height: 1.5;
+   font-weight: 400;
+}
+.dcr-1a3q2r3 strong {
+   font-weight: bold;
 }
