@@ -662,6 +662,7 @@ iframe{
    font-weight: bold;
 }
 
+
 .MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
 .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
 .MultiCarousel .MultiCarousel-inner .item { float: left;}
@@ -758,5 +759,9 @@ iframe{
    font-weight: 400;
    --source-text-decoration-thickness: 2px;
    color: #AB0613;
+}
+
+.css-1upilqn {
+    margin-bottom: 12px;
 }
 
