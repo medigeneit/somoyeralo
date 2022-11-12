@@ -182,36 +182,36 @@
 }
 
 .main_content{
-    border-left:var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
-    border-right:var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
-    color: rgb(227, 16, 16);
-    font-size: 23px;
-    padding-left: 0;
-    padding-right: 0;
+   border-left:var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+   border-right:var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+   color: rgb(227, 16, 16);
+   font-size: 23px;
+   padding-left: 0;
+   padding-right: 0;
 }
 
 .main_content_location{
-    color:rgb(227, 16, 16);
-    font-size: 18px;
- }
+   color:rgb(227, 16, 16);
+   font-size: 18px;
+}
 
 
 
 
- .sub_content{
-    background-color:#EDEDED ;
- }
- .detail-section{
+.sub_content{
+   background-color:#EDEDED ;
+}
+.detail-section{
    margin-top: 20px;
- }
+}
 
- .detail-section-left{
+.detail-section-left{
    padding-right: 2opx;
- }
- .old-segments{
-   
- }
- .dcr-13udsys {
+}
+.old-segments{
+
+}
+.dcr-13udsys {
    height: 100%;
    margin-bottom: 20px;
 }
@@ -540,11 +540,11 @@ iframe{
 }
 .dcr-u0mpu3 {
    background-image: linear-gradient(
-     0deg,
-     #FFFFFF,
-     #FFFFFF 40%,
-     rgba(255, 255, 255, 0)
-  );
+           0deg,
+           #FFFFFF,
+           #FFFFFF 40%,
+           rgba(255, 255, 255, 0)
+   );
    height: 80px;
    position: absolute;
    bottom: 0;
@@ -639,11 +639,11 @@ iframe{
 }
 .dcr-u0mpu3 {
    background-image: linear-gradient(
-     0deg,
-     #FFFFFF,
-     #FFFFFF 40%,
-     rgba(255, 255, 255, 0)
-  );
+           0deg,
+           #FFFFFF,
+           #FFFFFF 40%,
+           rgba(255, 255, 255, 0)
+   );
    height: 80px;
    position: absolute;
    bottom: 0;
@@ -661,3 +661,102 @@ iframe{
 .dcr-1a3q2r3 strong {
    font-weight: bold;
 }
+
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+.MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+.MultiCarousel .MultiCarousel-inner .item { float: left;}
+.MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+.MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+.MultiCarousel .leftLst { left:0; }
+.MultiCarousel .rightLst { right:0; }
+
+.MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
+
+/*multi item carasoul*/
+
+.dcr-411vm1::before {
+   content: '';
+   display: block;
+   position: absolute;
+   border-top: 1px dotted #707070;
+   left: 0;
+   right: 0;
+   top: 19px;
+}
+.dcr-1ah36un {
+   position: relative;
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 1.0625rem;
+   line-height: 1.35;
+   font-weight: 400;
+   --source-text-decoration-thickness: 2px;
+   cursor: pointer;
+   -webkit-text-decoration: underline;
+   text-decoration: underline;
+   text-underline-position: under;
+   text-underline-offset: 5%;
+   display: inline;
+   -webkit-align-items: center;
+   -webkit-box-align: center;
+   -ms-flex-align: center;
+   align-items: center;
+   color: #121212;
+   -webkit-text-decoration: none;
+   text-decoration: none;
+}
+.dcr-1ah36un::before {
+   content: '';
+   display: block;
+   position: relative;
+   height: 13px;
+   width: 13px;
+   border-radius: 50%;
+   background-color: #707070;
+   margin-bottom: 4px;
+   z-index: 2;
+}
+
+.dcr-411vm1 {
+   position: relative;
+   padding-bottom: 12px;
+   padding-top: 12px;
+   padding-right: 12px;
+   list-style: none;
+   display: block;
+   width: 162px;
+   scroll-snap-align: start;
+}
+
+.dcr-1ah36un::before {
+   height: 15px;
+   width: 15px;
+}
+.dcr-1ah36un::before {
+   content: '';
+   display: block;
+   position: relative;
+   height: 13px;
+   width: 13px;
+   border-radius: 50%;
+   background-color: #707070;
+   margin-bottom: 4px;
+   z-index: 2;
+}
+.dcr-bd9v7x {
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 0.875rem;
+   line-height: 1.15;
+   font-weight: 700;
+   --source-text-decoration-thickness: 2px;
+   color: #121212;
+   display: block;
+}
+.dcr-19vcojp {
+   font-family: GuardianTextSans,Guardian Text Sans Web,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-size: 0.9375rem;
+   line-height: 1.35;
+   font-weight: 400;
+   --source-text-decoration-thickness: 2px;
+   color: #AB0613;
+}
+
